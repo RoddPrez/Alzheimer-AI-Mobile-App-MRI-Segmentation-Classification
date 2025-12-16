@@ -1,3 +1,7 @@
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
+![Status](https://img.shields.io/badge/Status-Academic%20Project-orange.svg)
+
 # Alzheimer AI Mobile App 🧠📱
 
 This repository contains an academic project focused on the development of a mobile application based on Artificial Intelligence (AI) for the segmentation and classification of Alzheimer’s disease using MRI images.
