@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+title: "AI-Based Mobile Application for MRI-Based Alzheimer’s Disease Segmentation and Classification"
+message: "If you use this software, please cite it as below."
+type: software
+authors:
+  - family-names: Pérez
+    given-names: Roddy
+  - family-names: Guzmán
+    given-names: Paulo
+  - family-names: Quispe
+    given-names: Ian
+  - family-names: Petrlik
+    given-names: Ivan
+version: 1.0.0
+year: 2025
+license: MIT
